@@ -2,6 +2,11 @@
   "Тестовый пример": "Test expample",
   "Перевод": "Translate",
   "Главная страница": "Main page",
+  "О нас": "About us",
   "Язык": "English",
-  "Страница не найдена": "Not Found Page"
+  "Страница не найдена": "Not Found Page",
+  "Произошла непредвиденная ошибка": "Has been not vision error",
+  "Обновить страницу": "Reload page",
+  "Вызвать ошибку": "throw error",
+  "Toggle": "Toggle"
 }
